@@ -22,4 +22,4 @@ I am passionate about web development and information technology. I thrive on le
 
 🤝 Let's Connect!
 
-• Email: Bernard.Lorenzo@neu.edu.ph
+ • Email: Bernard.Lorenzo@neu.edu.ph
