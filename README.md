@@ -5,7 +5,9 @@ I am passionate about web development and information technology. I thrive on le
  🎓Education
  
    • BS Information Technology
+   
    • New Era University
+   
    • 2023 – Present
 
 🎓 Certifications
@@ -15,9 +17,13 @@ I am passionate about web development and information technology. I thrive on le
 🛠️ Skill Set
 
   • Programming: HTML, Basic Programming Concepts
+  
   • Web Development: Webpage creation (HTML)
+  
   • IT Support:Computer hardware setup and troubleshooting
+  
   • Tools: Microsoft Office (Word, Excel, PowerPoint)
+  
   • Soft Skills: Communication, Teamwork, Adaptability, Willingness to learn
 
 🤝 Let's Connect!
