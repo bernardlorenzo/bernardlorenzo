@@ -3,12 +3,14 @@ Hi there, I'm Bernard T. Lorenzo! 👋
 I am passionate about web development and information technology. I thrive on learning new technologies and building creative solutions. My journey in tech commenced with the BS Information Technology program at New Era University.
 
  🎓Education
-   BS Information Technology
+ 
+   • BS Information Technology
    • New Era University
    • 2023 – Present
 
 🎓 Certifications
    • [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/430f6ce6ae214c95938e62822e9c785a)
+
    
 🛠️ Skill Set
 
