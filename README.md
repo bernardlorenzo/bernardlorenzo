@@ -11,6 +11,7 @@ I am passionate about web development and information technology. I thrive on le
    • 2023 – Present
 
 🎓 Certifications
+
    • [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/430f6ce6ae214c95938e62822e9c785a)
 
    
