@@ -16,7 +16,9 @@ I am passionate about web development and information technology. I thrive on le
 
   • [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/430f6ce6ae214c95938e62822e9c785a)
   
-  •  [ Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C2356B7AE20B0674EE01210C8B1BC562186C932D8E9197F08FF2FA6EFBE736F3)
+  • [ Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C2356B7AE20B0674EE01210C8B1BC562186C932D8E9197F08FF2FA6EFBE736F3)
+
+  • [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D395729BA33AA519411E79B25479426357DF13C31940FCBCBC1EED8F4550D9E8)
 
   Become An OCI Foundations Associate (2025)
 ## 💼 Skill Sets
