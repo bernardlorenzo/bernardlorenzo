@@ -19,7 +19,8 @@ I am passionate about web development and information technology. I thrive on le
   • [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C2356B7AE20B0674EE01210C8B1BC562186C932D8E9197F08FF2FA6EFBE736F3)
 
   • [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D395729BA33AA519411E79B25479426357DF13C31940FCBCBC1EED8F4550D9E8)
-
+  
+  • [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=010384A859C1E336F9F4E98A848D58E94E1EEA42AC6070916EE343554D2B0F38)
 ## 💼 Skill Sets
 
 - **Programming:** HTML, Basic Programming Concepts
